@@ -3,6 +3,7 @@ const allowedOrigin = [
   "http://localhost:5001",
   "https://www.google.com",
   "https://www.bing.com",
+  "http://15.252.243.175:5001",
 ];
 
 const corsOptions = {
