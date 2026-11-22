@@ -3,4 +3,7 @@ node_modules
 dist
 .git
 .gitignore
+.dockerignore
+docker-compose*
+Dockerfile*
 npm-debug.log
